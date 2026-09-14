@@ -3831,7 +3831,92 @@
     "model": "gpt-5.6-sol",
     "reasoning_effort": "ultra",
     "source_count": 6,
-    "updated_at": "2026-09-14T08:39:13Z"
+    "updated_at": "2026-09-14T08:43:02Z"
+  },
+  "message_board": {
+    "messages": [],
+    "schema": "line-point-roadmap-message-board-v1"
+  },
+  "proof_roadmaps": {
+    "active_roadmaps": [
+      "algebraic-engine",
+      "incidence-engine",
+      "end-to-end-soundness"
+    ],
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "ultra",
+    "roadmaps": [
+      {
+        "critical_path": [],
+        "focus": "weighted interpolation, factorization, ramification cleanup, and characteristic-safe propagation",
+        "goal_node_id": "",
+        "nodes": [],
+        "progress": {
+          "blocked": 0,
+          "invalid": 0,
+          "mapped": 0,
+          "open": 0,
+          "percent": 0,
+          "provisional": 0,
+          "total": 0,
+          "verified": 0
+        },
+        "roadmap_id": "algebraic-engine",
+        "round": 0,
+        "summary": "The first dependency audit is queued.",
+        "target_statement": "Prove an algebraic interpolation-and-propagation lemma strong enough to preserve a near-linear power of the accepted incidence density over $\\mathbb F_p^2$.",
+        "title": "Algebraic propagation engine",
+        "updated_at": "2026-09-14T08:43:02Z"
+      },
+      {
+        "critical_path": [],
+        "focus": "popularity pruning, structured line families, point-line concentration, and near-lossless sampling",
+        "goal_node_id": "",
+        "nodes": [],
+        "progress": {
+          "blocked": 0,
+          "invalid": 0,
+          "mapped": 0,
+          "open": 0,
+          "percent": 0,
+          "provisional": 0,
+          "total": 0,
+          "verified": 0
+        },
+        "roadmap_id": "incidence-engine",
+        "round": 0,
+        "summary": "The first dependency audit is queued.",
+        "target_statement": "Convert local line-versus-point agreement into a structured affine-plane incidence configuration with only a $(d/p)^{o(1)}$ loss.",
+        "title": "Incidence concentration engine",
+        "updated_at": "2026-09-14T08:43:02Z"
+      },
+      {
+        "critical_path": [],
+        "focus": "a complete KTZ-style dependency chain ending in one global polynomial and exponent $1-o(1)$",
+        "goal_node_id": "",
+        "nodes": [],
+        "progress": {
+          "blocked": 0,
+          "invalid": 0,
+          "mapped": 0,
+          "open": 0,
+          "percent": 0,
+          "provisional": 0,
+          "total": 0,
+          "verified": 0
+        },
+        "roadmap_id": "end-to-end-soundness",
+        "round": 0,
+        "summary": "The first dependency audit is queued.",
+        "target_statement": "Prove that soundness at least $(d/p)^{1-o(1)}$ yields agreement with one total-degree-at-most-$d$ polynomial for $100<d<p$ over $\\mathbb F_p$.",
+        "title": "End-to-end soundness chain",
+        "updated_at": "2026-09-14T08:43:02Z"
+      }
+    ],
+    "round": 1,
+    "schema": "line-point-proof-roadmaps-v1",
+    "status": "running",
+    "updated_at": "2026-09-14T08:43:02Z"
   },
   "schema": "line-point-research-dashboard-v1",
   "status": {
