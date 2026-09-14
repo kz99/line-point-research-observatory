@@ -6621,7 +6621,7 @@
     "model": "gpt-5.6-sol",
     "reasoning_effort": "ultra",
     "source_count": 8,
-    "updated_at": "2026-09-14T09:53:27Z"
+    "updated_at": "2026-09-14T09:54:30Z"
   },
   "message_board": {
     "messages": [
@@ -6880,7 +6880,11 @@
     "updated_at": "2026-09-14T09:53:26Z"
   },
   "proof_roadmaps": {
-    "active_roadmaps": [],
+    "active_roadmaps": [
+      "algebraic-engine",
+      "incidence-engine",
+      "end-to-end-soundness"
+    ],
     "model": "gpt-5.6-sol",
     "reasoning_effort": "ultra",
     "roadmaps": [
@@ -8673,10 +8677,10 @@
         "updated_at": "2026-09-14T09:53:26Z"
       }
     ],
-    "round": 1,
+    "round": 2,
     "schema": "line-point-proof-roadmaps-v1",
-    "status": "watching",
-    "updated_at": "2026-09-14T09:53:27Z"
+    "status": "running",
+    "updated_at": "2026-09-14T09:54:30Z"
   },
   "schema": "line-point-research-dashboard-v1",
   "status": {
