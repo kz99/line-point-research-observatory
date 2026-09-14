@@ -1,4 +1,34 @@
 {
+  "../../../../../../Documents/ChatGPT/Line-vs-Point/dashboard/node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
+    "file": "line-point-research-observatory/_next/static/chunks/app-route-prefetch-policy-DBsHiTtn.js",
+    "name": "app-route-prefetch-policy",
+    "src": "../../../../../../Documents/ChatGPT/Line-vs-Point/dashboard/node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "virtual:vinext-app-browser-entry"
+    ]
+  },
+  "../../../../../../Documents/ChatGPT/Line-vs-Point/dashboard/node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "line-point-research-observatory/_next/static/chunks/layout-segment-context-CAkFFEw0.js",
+    "name": "layout-segment-context",
+    "src": "../../../../../../Documents/ChatGPT/Line-vs-Point/dashboard/node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-BHKfQUIK.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-CmdXWm4Y.js"
+    ]
+  },
+  "../../../../../../Documents/ChatGPT/Line-vs-Point/dashboard/node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/streamed-icons.js": {
+    "file": "line-point-research-observatory/_next/static/chunks/streamed-icons-DVgzwIMZ.js",
+    "name": "streamed-icons",
+    "src": "../../../../../../Documents/ChatGPT/Line-vs-Point/dashboard/node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/streamed-icons.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-BHKfQUIK.js",
+      "_framework-CmdXWm4Y.js"
+    ]
+  },
   "_framework-CmdXWm4Y.js": {
     "file": "line-point-research-observatory/_next/static/chunks/framework-CmdXWm4Y.js",
     "name": "framework",
@@ -11,7 +41,7 @@
     "name": "rolldown-runtime"
   },
   "components/research-console.tsx": {
-    "file": "line-point-research-observatory/_next/static/chunks/research-console-BlhzfEZ9.js",
+    "file": "line-point-research-observatory/_next/static/chunks/research-console-_OZTZP_s.js",
     "name": "research-console",
     "src": "components/research-console.tsx",
     "isDynamicEntry": true,
@@ -20,38 +50,8 @@
       "_framework-CmdXWm4Y.js"
     ]
   },
-  "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "line-point-research-observatory/_next/static/chunks/app-route-prefetch-policy-DUWSO8Fx.js",
-    "name": "app-route-prefetch-policy",
-    "src": "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "virtual:vinext-app-browser-entry"
-    ]
-  },
-  "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "line-point-research-observatory/_next/static/chunks/layout-segment-context-BaUW34fk.js",
-    "name": "layout-segment-context",
-    "src": "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/layout-segment-context.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-BHKfQUIK.js",
-      "virtual:vinext-app-browser-entry",
-      "_framework-CmdXWm4Y.js"
-    ]
-  },
-  "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/streamed-icons.js": {
-    "file": "line-point-research-observatory/_next/static/chunks/streamed-icons-DVgzwIMZ.js",
-    "name": "streamed-icons",
-    "src": "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/streamed-icons.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-BHKfQUIK.js",
-      "_framework-CmdXWm4Y.js"
-    ]
-  },
   "virtual:vinext-app-browser-entry": {
-    "file": "line-point-research-observatory/_next/static/chunks/index-C3liMSPs.js",
+    "file": "line-point-research-observatory/_next/static/chunks/index-C-4xoJTc.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -60,11 +60,11 @@
       "_framework-CmdXWm4Y.js"
     ],
     "dynamicImports": [
-      "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
-      "virtual:vinext-app-browser-entry",
+      "../../../../../../Documents/ChatGPT/Line-vs-Point/dashboard/node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+      "../../../../../../Documents/ChatGPT/Line-vs-Point/dashboard/node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/streamed-icons.js",
       "components/research-console.tsx",
-      "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/layout-segment-context.js",
-      "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/streamed-icons.js"
+      "../../../../../../Documents/ChatGPT/Line-vs-Point/dashboard/node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_b79f96eac0df69dff29a3f5c3c8024f5/node_modules/vinext/dist/shims/layout-segment-context.js",
+      "virtual:vinext-app-browser-entry"
     ]
   }
 }
