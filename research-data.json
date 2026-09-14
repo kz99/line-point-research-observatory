@@ -6598,15 +6598,15 @@
   },
   "jobs": [
     {
-      "attempts": 0,
+      "attempts": 1,
       "direction": "global bivariate prime-field proof synthesis toward exponent 1-o(1)",
-      "error": null,
-      "finished_at": null,
+      "error": "AgentError: static submission check failed: missing Abstract section; missing Exponent Ledger section; missing Limitations section; coverage_complete conflicts with omitted_paths",
+      "finished_at": "2026-09-14T10:59:22Z",
       "id": "GENIUS",
       "max_attempts": 8,
       "ordinal": null,
       "role": "genius",
-      "started_at": null,
+      "started_at": "2026-09-14T10:28:50Z",
       "status": "queued"
     },
     {
@@ -8703,8 +8703,8 @@
     ],
     "model": "gpt-5.6-sol",
     "reasoning_effort": "ultra",
-    "source_count": 10,
-    "updated_at": "2026-09-14T10:58:40Z"
+    "source_count": 11,
+    "updated_at": "2026-09-14T10:59:43Z"
   },
   "message_board": {
     "messages": [
@@ -11283,7 +11283,7 @@
     "round": 3,
     "schema": "line-point-proof-roadmaps-v1",
     "status": "running",
-    "updated_at": "2026-09-14T10:58:40Z"
+    "updated_at": "2026-09-14T10:59:43Z"
   },
   "schema": "line-point-research-dashboard-v1",
   "status": {
@@ -11306,6 +11306,6 @@
       "verifier": 10
     },
     "target_exponent": "1-o(1)",
-    "updated_at": "2026-09-14T10:28:50Z"
+    "updated_at": "2026-09-14T10:59:22Z"
   }
 }
